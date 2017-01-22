@@ -1,0 +1,22 @@
+halo_id_nbody
+gal_id
+dp
+n_sersic
+r_disk_proj_H [kpc]
+r_bulge_proj_H [kpc]
+r_eff_proj_H [kpc]
+r_disk_proj_star [kpc]
+r_bulge_proj_star [kpc]
+angular_radius [arcsec]
+z_est
+acsf435w_dust_mag_noisy
+acsf606w_dust_mag_noisy
+acsf775w_dust_mag_noisy
+acsf814w_dust_mag_noisy
+acsf850lp_dust_mag_noisy
+wfc3f275w_dust_mag_noisy
+wfc3f105w_dust_mag_noisy
+wfc3f125w_dust_mag_noisy
+wfc3f160w_dust_mag_noisy
+irac_ch1_dust_mag_noisy
+irac_ch2_dust_mag_noisy

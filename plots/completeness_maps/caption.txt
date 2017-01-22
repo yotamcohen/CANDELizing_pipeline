@@ -1,0 +1,9 @@
+In this figure:
+Completeness maps for GOODSN, depth level 4 (just as an example).
+Abscissa: H-band magnitude(AB). For the mocks this is the dusty, noisy magnitude, since that would be the closest thing to the "observed" magnitude.
+Ordinate: (log) Effective (composite) H-band radius in wfc3 pixels (assuming 0.06 arcsec/pixel).
+The black box encloses the region within which the completeness calculations were done.
+The colored contours enclose the following detection probabilities: 0.25 (outermost), 0.5, 0.75, and 0.95 (innermost).
+The shaded population in the background is the distribution of mock galaxies in the corresponding redshift bin and morphological type. The darkness of the shading is proportional to the number of galaxies in the given cell.
+Completeness calculations done by Meredith Durbin at STSCI.
+

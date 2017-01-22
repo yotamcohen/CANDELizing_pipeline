@@ -1,0 +1,10 @@
+acs_f435w 
+acs_f606w_v08
+acs_f814w_v08
+acs_f850lp
+wfc3_f275w
+wfc3_f105w
+wfc3_f125w_v08
+wfc3_f160w_v08
+irac_ch1
+irac_ch2

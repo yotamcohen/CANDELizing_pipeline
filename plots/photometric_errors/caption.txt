@@ -1,0 +1,7 @@
+In this figure:
+(flux error / flux) vs magnitude for various CANDELS filter bands.
+The magnitude plotted is the magnitude of the same filter as that for which the error is plotted, not H-band or something.
+Light grey scatter points show all the points with PhotFlag==0.
+Blue trendline with symbols shows the binned running average of the fractional error.
+All data taken from GOODS-N catalog.
+All magnitudes in AB system.
